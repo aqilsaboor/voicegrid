@@ -1,0 +1,6 @@
+client_id= ""
+client_secret= ""
+openai_key= ""
+pinecone_key= ""
+deepseek_key= ""
+google_key=  ""
